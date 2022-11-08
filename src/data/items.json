@@ -1,0 +1,36 @@
+{
+    "items": [{
+            "itemName": "Nike shoes",
+            "price": 20
+        }, {
+            "itemName": "jordan shoes",
+            "price": 40
+        },
+        {
+            "itemName": "anbesa shoes",
+            "price": 100
+        },
+        {
+            "itemName": "Nike shoes",
+            "price": 20
+        }, {
+            "itemName": "jordan shoes",
+            "price": 40
+        },
+        {
+            "itemName": "anbesa shoes",
+            "price": 100
+        },
+        {
+            "itemName": "Nike shoes",
+            "price": 20
+        }, {
+            "itemName": "jordan shoes",
+            "price": 40
+        },
+        {
+            "itemName": "anbesa shoes",
+            "price": 100
+        }
+    ]
+}
