@@ -1,0 +1,178 @@
+.us {
+  color: #3d3214;
+  font-size: x-large;
+}
+
+.card-manager {
+  padding: 20px;
+}
+
+.card-manager img {
+  height: 400px;
+}
+
+body {
+  font-family: 'Montserrat',sans-serif;
+}
+#title {
+  background-color: #FED049;
+  color: black;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.navbar {
+  padding: 0px;
+  padding-bottom: 4.5rem;
+}
+
+.nav-item {
+  padding: 0px 18;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.title-image {
+  transform: rotate(25deg);
+  width: 20%;
+  position: absolute;
+}
+
+
+.btn {
+  margin: 5% 3% 5% 0%;
+}
+
+.features {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.fea {
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+.icon {
+  color: #d0ab3c;
+  margin-bottom: 5%;
+}
+
+.icon:hover {
+  color: #deb026;
+}
+
+h3 {
+  font-size: 2em;
+  font-weight: 600;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+#testimonials {
+  text-align: center;
+  color: #fff;
+  background-color: #FED049;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.card {
+  margin: 10px 0px;
+}
+
+#cta {
+  background-color:  #FED049;;
+  padding: 7% 7%;
+  text-align: center;
+}
+
+.find {
+  color: #fff;
+  font-weight: 900;
+  font-size: 4rem;
+  padding-bottom: 2rem;;
+}
+
+#footer {
+  padding: 7% 7%;
+  text-align: center;
+}
+@media (max-width: 1080px) {
+  #title {
+    text-align: center;
+  }
+  .navbar-brand {
+    font-size: 3em;
+  }
+  .nav-link {
+    font-size: 3em;
+    position: relative;
+    float: right;
+  }
+  .title-image {
+    position: static;
+    transform: rotate(0);
+    width: 60%;
+  }
+  h1 {
+    font-size: 6em;
+  }
+  h3 {
+    font-size: 4em;
+  }
+  p {
+    font-size: 2em;
+  }
+}
